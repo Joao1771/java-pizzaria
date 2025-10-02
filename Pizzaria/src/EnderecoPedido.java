@@ -16,7 +16,7 @@ public class EnderecoPedido {
     }
 
     @Override
-    public String toString() {
+    public String construirFrase() {
         return rua + ", " + bairro + ", " + cidade + " - " + estado + " (" + cep + ")";
     }
 }

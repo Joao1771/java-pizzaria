@@ -1,4 +1,3 @@
-package src;
 
 public class Entregador {
 	private String idTrabalhador;

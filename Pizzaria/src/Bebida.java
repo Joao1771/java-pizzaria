@@ -1,4 +1,4 @@
-package src;
+
 
 public class Bebida {
 	private int preco;
